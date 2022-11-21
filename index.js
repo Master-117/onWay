@@ -6,7 +6,10 @@ const route = (event) => {
 }
 
 const routes = {
-    "/": "./home.html"
+    "/": "./home.html",
+    "/buscar": "./buscar.html",
+    "/rota": "./sala323-portaria.html",
+    "/sala-323": ".sala-323.html"
 };
 
 const handleLocation = async () => {
