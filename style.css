@@ -24,6 +24,12 @@
     height: 100vh;
 }
 
+img{
+    margin-top: 70px;
+    width: 100%;
+    object-fit: contain;
+}
+
 #footer{
     position: fixed;
     bottom: 0;

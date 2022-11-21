@@ -8,6 +8,11 @@ h2{
     font-size: 28px;
 }
 
+img{
+    width: 100%;
+    object-fit: contain;
+}
+
 .btnDivHome{
     display: flex;
     justify-content: space-around;
